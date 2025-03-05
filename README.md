@@ -1,6 +1,8 @@
 # Airflow_Pipeline_OpenWeather
 This repository is intended to run an Apache Airflow Pipeline on AWS. Refer the video for project explaination
 
+Explaination Video:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/xTqrX4aIrTM/0.jpg)](https://www.youtube.com/watch?v=xTqrX4aIrTM)
 
 Advantages of using Airflow:
@@ -12,3 +14,4 @@ Advantages of using Airflow:
 
 NOTE:
 Instead of AWS, you can run airflow locally as well. Besides, instead of S3, AWS Redshift, Oracle SQL, MongoDB, etc. can also be used.
+Certain AWS Dependencies are explained within the video. If these dependencies are not completed, airflow run might be successful and there can be errors.
